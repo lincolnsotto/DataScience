@@ -1,2 +1,4 @@
+USER MASTER
+
 SELECT * FROM SYS.object
 GO
