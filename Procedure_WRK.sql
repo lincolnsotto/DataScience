@@ -1,0 +1,2 @@
+SELECT * FROM SYS.object
+GO
